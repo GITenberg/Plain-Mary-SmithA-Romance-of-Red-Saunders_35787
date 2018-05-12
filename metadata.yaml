@@ -1,0 +1,36 @@
+_repo: Plain-Mary-SmithA-Romance-of-Red-Saunders_35787
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Justice, Martin
+    aliases:
+    - Justice, B. Martin
+    - Justine, Martin
+    gutenberg_agent_id: '37259'
+    url: http://www.gutenberg.org/2009/agents/37259
+covers:
+- cover_type: archival
+  image_path: 35787-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillips, Henry Wallace
+    alias: Phillips, H. W. (Henry Wallace)
+    birthdate: 1869
+    deathdate: 1930
+    gutenberg_agent_id: '4260'
+    url: http://www.gutenberg.org/2009/agents/4260
+description: ''
+gutenberg_issued: '2011-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcsh 'Fiction'
+title: 'Plain Mary Smith: A Romance of Red Saunders'
+url: http://www.gutenberg.org/ebooks/35787
